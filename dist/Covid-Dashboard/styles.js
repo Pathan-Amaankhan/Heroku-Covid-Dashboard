@@ -105,7 +105,7 @@ module.exports = exports;
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\n\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E,aAAa,YAAY,EAAE;;AAC3B,OAAO,SAAS,EAAE,iDAAiD,EAAE","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\n\nhtml, body { height: 100%; }\nbody { margin: 0; font-family: Roboto, \"Helvetica Neue\", sans-serif; }\n"]}]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\r\n\r\nhtml, body { height: 100%; }\r\n\r\nbody { margin: 0; font-family: 'Rubik', sans-serif; }\r\n\r\nh1 {\r\n  color: #7395AE;\r\n}\r\n", "",{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,8EAA8E;;AAE9E,aAAa,YAAY,EAAE;;AAC3B,OAAO,SAAS,EAAE,gCAAgC,EAAE;;AACpD;EACE,cAAc;AAChB","file":"styles.css","sourcesContent":["/* You can add global styles to this file, and also import other style files */\r\n\r\nhtml, body { height: 100%; }\r\nbody { margin: 0; font-family: 'Rubik', sans-serif; }\r\nh1 {\r\n  color: #7395AE;\r\n}\r\n"]}]);
 // Exports
 module.exports = exports;
 
@@ -533,9 +533,9 @@ module.exports = content.locals || {};
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/akrocks/AKRocks/works/#angular/ownWork/Covid-Dashboard/node_modules/@angular/material/prebuilt-themes/purple-green.css */"./node_modules/@angular/material/prebuilt-themes/purple-green.css");
-__webpack_require__(/*! /home/akrocks/AKRocks/works/#angular/ownWork/Covid-Dashboard/src/styles.css */"./src/styles.css");
-module.exports = __webpack_require__(/*! /home/akrocks/AKRocks/works/#angular/ownWork/Covid-Dashboard/node_modules/bootstrap/dist/css/bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
+__webpack_require__(/*! D:\AKRocks\#AngularProjects\Covid-Dashboard\node_modules\@angular\material\prebuilt-themes\purple-green.css */"./node_modules/@angular/material/prebuilt-themes/purple-green.css");
+__webpack_require__(/*! D:\AKRocks\#AngularProjects\Covid-Dashboard\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! D:\AKRocks\#AngularProjects\Covid-Dashboard\node_modules\bootstrap\dist\css\bootstrap.css */"./node_modules/bootstrap/dist/css/bootstrap.css");
 
 
 /***/ })
